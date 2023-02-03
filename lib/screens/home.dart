@@ -5,7 +5,7 @@ import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:line_icons/line_icons.dart';
 import 'cart_screen.dart';
 import 'home_screen.dart';
-import 'login.dart';
+import 'login_register.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
